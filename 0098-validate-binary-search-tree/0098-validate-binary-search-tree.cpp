@@ -1,18 +1,22 @@
 class Solution {
 public:
-    void inorder(TreeNode* root,vector<int>& ans){
+    //optimization 1
+    void inorder(TreeNode* root,TreeNode* &prev,bool &flag){
         if(root==NULL) return;
-        inorder(root->left,ans);
-        ans.push_back(root->val);
-        inorder(root->right,ans);
+        inorder(root->left,prev,flag);
+        if(prev){
+            if(root->val<=prev->val){
+                flag=false;
+                return;
+            }
+        }
+        prev=root;
+        inorder(root->right,prev,flag);
     }
     bool isValidBST(TreeNode* root) {
-        if(!root->left && !root->right) return true;
-        vector<int> ans;
-        inorder(root,ans);
-        for(int i=0;i<ans.size()-1;i++){
-            if(ans[i]>=ans[i+1]) return false;
-        }
-        return true;
+        TreeNode* prev=NULL;
+        bool flag=true;
+        inorder(root,prev,flag);
+        return flag;
     }
 };
