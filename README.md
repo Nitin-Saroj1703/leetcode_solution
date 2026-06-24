@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -30,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Array
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
