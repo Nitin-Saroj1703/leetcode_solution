@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0242-valid-anagram) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Prefix Sum
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0242-valid-anagram) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Math
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2744-find-maximum-number-of-string-pairs) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
