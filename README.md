@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1207-unique-number-of-occurrences) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1207-unique-number-of-occurrences) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1657-determine-if-two-strings-are-close) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0242-valid-anagram) |
 | [1122-relative-sort-array](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1122-relative-sort-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1657-determine-if-two-strings-are-close) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2094-finding-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -177,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1122-relative-sort-array) |
+## Two Pointers
+|  |
+| ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1679-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
