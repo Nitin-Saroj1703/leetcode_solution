@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0450-delete-node-in-a-bst](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0450-delete-node-in-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0658-find-k-closest-elements) |
 | [0669-trim-a-binary-search-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0669-trim-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0938-range-sum-of-bst) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0658-find-k-closest-elements) |
 | [0861-score-after-flipping-matrix](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0861-score-after-flipping-matrix) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1122-relative-sort-array](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1122-relative-sort-array) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0658-find-k-closest-elements) |
 | [1122-relative-sort-array](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1122-relative-sort-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1657-determine-if-two-strings-are-close) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0658-find-k-closest-elements) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Design
 |  |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0658-find-k-closest-elements) |
 ## Quickselect
 |  |
 | ------- |
@@ -230,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
