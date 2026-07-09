@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
+| [0861-score-after-flipping-matrix](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0861-score-after-flipping-matrix) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1122-relative-sort-array](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1207-unique-number-of-occurrences) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0861-score-after-flipping-matrix](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0861-score-after-flipping-matrix) |
 | [1382-balance-a-binary-search-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1382-balance-a-binary-search-tree) |
 ## String
 |  |
@@ -209,4 +211,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0861-score-after-flipping-matrix](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0861-score-after-flipping-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0861-score-after-flipping-matrix](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0861-score-after-flipping-matrix) |
 <!---LeetCode Topics End-->
