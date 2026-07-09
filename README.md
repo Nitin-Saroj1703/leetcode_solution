@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0861-score-after-flipping-matrix](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0861-score-after-flipping-matrix) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Stack
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [1122-relative-sort-array](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1207-unique-number-of-occurrences) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1657-determine-if-two-strings-are-close) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1122-relative-sort-array](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1122-relative-sort-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -205,11 +210,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -219,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-score-after-flipping-matrix](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0861-score-after-flipping-matrix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
