@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2094-finding-3-digit-even-numbers) |
+| [2104-sum-of-subarray-ranges](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2104-sum-of-subarray-ranges) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Divide and Conquer
@@ -110,10 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2104-sum-of-subarray-ranges](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2104-sum-of-subarray-ranges](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2104-sum-of-subarray-ranges) |
 ## Greedy
 |  |
 | ------- |
