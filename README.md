@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0658-find-k-closest-elements) |
@@ -218,17 +219,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0061-rotate-list) |
+| [0295-find-median-from-data-stream](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0295-find-median-from-data-stream) |
 | [0633-sum-of-square-numbers](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0658-find-k-closest-elements) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0295-find-median-from-data-stream) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1865-finding-pairs-with-a-certain-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0658-find-k-closest-elements) |
@@ -261,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0973-k-closest-points-to-origin) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
