@@ -1,6 +1,7 @@
 class Solution {
 public:
     int numRescueBoats(vector<int>& people, int limit) {
+        //O(nlogn)
         sort(people.begin(),people.end());
         int i=0;
         int j=people.size()-1;
