@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0658-find-k-closest-elements) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0435-non-overlapping-intervals) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0781-rabbits-in-forest](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0781-rabbits-in-forest) |
 | [0861-score-after-flipping-matrix](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0861-score-after-flipping-matrix) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0435-non-overlapping-intervals) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0881-boats-to-save-people) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0435-non-overlapping-intervals) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Timsort
 |  |
