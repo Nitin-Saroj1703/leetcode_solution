@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0001-two-sum) |
+| [0045-jump-game-ii](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0056-merge-intervals) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0678-valid-parenthesis-string) |
