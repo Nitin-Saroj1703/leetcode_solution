@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2104-sum-of-subarray-ranges) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3903-smallest-stable-index-i](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3903-smallest-stable-index-i](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/3903-smallest-stable-index-i) |
 ## Linked List
 |  |
 | ------- |
