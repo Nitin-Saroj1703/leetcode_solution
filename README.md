@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0856-score-of-parentheses) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0856-score-of-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1657-determine-if-two-strings-are-close) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2182-construct-string-with-repeat-limit) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0856-score-of-parentheses) |
 ## Backtracking
 |  |
 | ------- |
