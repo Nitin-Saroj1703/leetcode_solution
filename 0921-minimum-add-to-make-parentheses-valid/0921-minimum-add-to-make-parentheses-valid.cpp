@@ -1,22 +1,18 @@
 class Solution {
 public:
     int minAddToMakeValid(string s) {
-        int n = s.length();
-        int count = 0;
-        int count_open = 0;
-
-        for(int i = 0 ; i < n ; i++){
-            if(s[i] == '('){
-                count_open++ ;
-            }
-            if(s[i] == ')'){
-                if(count_open == 0){
-                    count++;
-                }else{
-                    count_open--;
-                }
-            }
+       int ans=0, count = 0;
+       for(auto c : s){
+        if( c =='('){
+           count += 1;
+        }else{
+            count -= 1;
         }
-        return count + count_open;
+        if( count == -1){
+            ans += 1;
+            count = 0;
+        }
+       }
+       return ans + count; 
     }
 };
