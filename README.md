@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1710-maximum-units-on-a-truck](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1710-maximum-units-on-a-truck) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2182-construct-string-with-repeat-limit) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Math
 |  |
 | ------- |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-score-after-flipping-matrix](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0861-score-after-flipping-matrix) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Bucket Sort
 |  |
 | ------- |
