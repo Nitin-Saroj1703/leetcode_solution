@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
