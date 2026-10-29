@@ -443,4 +443,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
