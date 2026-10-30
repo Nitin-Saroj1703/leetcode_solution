@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0669-trim-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0733-flood-fill) |
+| [0841-keys-and-rooms](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0841-keys-and-rooms) |
 | [0938-range-sum-of-bst](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1254-number-of-closed-islands](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1254-number-of-closed-islands) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0112-path-sum) |
 | [0301-remove-invalid-parentheses](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0301-remove-invalid-parentheses) |
 | [0733-flood-fill](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0733-flood-fill) |
+| [0841-keys-and-rooms](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0841-keys-and-rooms) |
 | [1254-number-of-closed-islands](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1254-number-of-closed-islands) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Hash Table
@@ -446,5 +448,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0841-keys-and-rooms) |
 | [1791-find-center-of-star-graph](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
