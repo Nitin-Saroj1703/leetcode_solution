@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0480-sliding-window-median](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0480-sliding-window-median) |
 | [0560-subarray-sum-equals-k](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0633-sum-of-square-numbers](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0633-sum-of-square-numbers) |
 | [0781-rabbits-in-forest](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0781-rabbits-in-forest) |
 | [0973-k-closest-points-to-origin](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0973-k-closest-points-to-origin) |
