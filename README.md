@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/3903-smallest-stable-index-i) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/3871-count-commas-in-range-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/3886-sum-of-sortable-integers) |
