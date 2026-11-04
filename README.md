@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0133-clone-graph](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0669-trim-a-binary-search-tree) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0056-merge-intervals) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0135-candy) |
+| [0200-number-of-islands](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0301-remove-invalid-parentheses) |
 | [0733-flood-fill](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0841-keys-and-rooms) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0733-flood-fill) |
 | [0861-score-after-flipping-matrix](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0861-score-after-flipping-matrix) |
@@ -442,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
