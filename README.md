@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1382-balance-a-binary-search-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Tree
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0973-k-closest-points-to-origin) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1122-relative-sort-array](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1122-relative-sort-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0881-boats-to-save-people) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Design
 |  |
