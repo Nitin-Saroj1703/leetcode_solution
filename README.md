@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2104-sum-of-subarray-ranges) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2747-count-zero-request-servers](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2747-count-zero-request-servers](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Math
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1710-maximum-units-on-a-truck) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2094-finding-3-digit-even-numbers) |
+| [2747-count-zero-request-servers](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/3886-sum-of-sortable-integers) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/0658-find-k-closest-elements) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2747-count-zero-request-servers](https://github.com/Nitin-Saroj1703/leetcode_solution/tree/master/2747-count-zero-request-servers) |
 ## Geometry
 |  |
 | ------- |
